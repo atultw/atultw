@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-[![Atulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=atultw&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atultw)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-  <img alt="Light" src="https://...light.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://...dark.png" width="45%">
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultw" width="45%">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=atultw&count_private=true&show_icons=true&theme=radical" width="45%">
 </p>
 
 
