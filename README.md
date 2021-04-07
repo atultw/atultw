@@ -49,9 +49,9 @@ Tools:
 
 - 🔭 I’m currently working on a mobile app with a nodejs backend
 - 🌱 I’m currently learning golang and rust
-- 👯 I’m looking to collaborate on pretty much anything!
-- 🤔 I’m looking for help with nothing atm. 
-- 💬 Ask me about my interests!
+[//]: # - 👯 I’m looking to collaborate on pretty much anything!
+[//]: #- 🤔 I’m looking for help with nothing atm. 
+[//]: #- 💬 Ask me about my interests!
 - 📫 How to reach me: email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been playing piano for 8 years.
