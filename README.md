@@ -3,7 +3,7 @@
 <p align="center">
 <!--   <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultw" width="45%"> -->
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=atultw&count_private=true&show_icons=true&theme=radical" width="45%">
-</p>
+  <br> 
 
 <div>
 Languages:
@@ -17,6 +17,7 @@ Languages:
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
+<br> 
 
 <div>
 Frameworks:
@@ -24,12 +25,14 @@ Frameworks:
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
+<br> 
 
 <div>
 Databases:
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+<br> 
 
 <div>
 Platforms:
@@ -37,6 +40,7 @@ Platforms:
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
+<br> 
 
 <div>
 Tools:
@@ -46,6 +50,10 @@ Tools:
 <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
 </div>
+</p>
+
+<br> <br> <br> 
+
 
 - 🔭 I’m currently working on a mobile app with a nodejs backend
 - 🌱 I’m currently learning golang and rust
