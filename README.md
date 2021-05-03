@@ -54,9 +54,7 @@ Tools:
 </div>
 </p>
 
-<br> <br> <br> 
-
-
+<br>
 - 🔭 I’m currently working on a mobile app with a nodejs backend
 - 🌱 I’m currently learning golang and rust
 - 📫 How to reach me: email
